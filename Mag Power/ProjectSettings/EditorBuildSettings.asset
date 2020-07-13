@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 5fd383e19267941fe8eb45517412371e
+  - enabled: 1
+    path: Assets/Scenes/BattleModeScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SingleLevel.unity
+    guid: 643d282c4948446c0a3d1770f5118c4a
+  - enabled: 1
+    path: Assets/Scenes/tutroLevel.unity
+    guid: b6e2c131f57c2402f806f665292dfe01
+  - enabled: 1
+    path: Assets/Scenes/RaceLevelScene.unity
+    guid: e834befb496de4071857edf24dc55559
+  - enabled: 1
+    path: Assets/Scenes/coopratemodle.unity
+    guid: bbd5db2051117487a91295091351dd4b
+  - enabled: 1
+    path: Assets/Scenes/Gameover.unity
+    guid: 6ebada3bc311f4db69f2a5b9b4a7d5bb
+  m_configObjects: {}

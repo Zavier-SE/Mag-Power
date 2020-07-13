@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - killer
+  - door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 
+    uniqueID: 3193665781
+    locked: 0
+  - name: background
+    uniqueID: 2120018653
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mag Eff
+    uniqueID: 495352101
+    locked: 0
+  - name: Ob
+    uniqueID: 2413666187
+    locked: 0
+  - name: player
+    uniqueID: 279396865
+    locked: 0
+  - name: health bar border
+    uniqueID: 2287046893
+    locked: 0
+  - name: health bar bg
+    uniqueID: 907602233
+    locked: 0
+  - name: health bar
+    uniqueID: 2145948931
+    locked: 0
